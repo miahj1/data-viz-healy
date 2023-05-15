@@ -9,3 +9,5 @@ The archived code however has a few issues:
 
 ## 📓 Thoughts on Google Collab
 I realized a while back that collab has an option to let anyone change the language from Python to R, so I took up that opportunity since I did not want my already storage constrained laptop losing more storage because of these large packages that needed to be installed. The only downside for this approach is when the runtime expires and needs to be reactivated: the packages will have to be resintalled--which isn't a big issue with some of them that are small but the big ones take a considerable amount of time. If you're working with this book, I recommend finishing the chapter that requires that package to prevent having to install it over and over again. Also, doing this with the packages gives you a great idea of what functions come from where.
+
+If you want to create your own R-centric google collab, you can launch a notebook that does that through a url: https://colab.to/r.
