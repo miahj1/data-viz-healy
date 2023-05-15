@@ -4,5 +4,5 @@ The notebook included in this repository is an archive of all the code I ran and
 
 The archived code however has a few issues:
 + I wasn't too strapped to organize the code: however, there are relevant headings for each chapter.
-+ The few quizzes included in the book: I intentionally skipped over. 
++ The few quizzes included in the book are intentionally skipped over. 
 + There may be 1 or 2 errors in the code from the book that I was not able to resolve.
